@@ -1,2 +1,2 @@
 # PreciseCoder
-Code for Paper: Rewards Beyond Test Passing — Towards Generalizable Fidelity in LLM Debugging (coming soon)
+Code for the paper "PreciseCoder: Faithful and Generalizable Debugging Beyond Unit-Test Rewards" (coming soon)
